@@ -1,0 +1,11 @@
+INDEX VERSION 1.127+C:\Users\David\Documents\5892-Android-Camera\.metadata\.plugins\org.eclipse.jdt.core
+2420047492.index
+1005145741.index
+3562458022.index
+2535054089.index
+3550085508.index
+374985064.index
+2257542629.index
+2114575291.index
+797160259.index
+401892571.index
